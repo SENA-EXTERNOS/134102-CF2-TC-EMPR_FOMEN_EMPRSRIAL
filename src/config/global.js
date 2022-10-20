@@ -109,32 +109,100 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Normatividad colombiana: Jurídica, tributaria y laboral',
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo. (s.f.). Normatividad. Mipymes.',
+      tipo: 'Sitio web',
+      link: 'https://www.mipymes.gov.co/normatividad',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Clasificación de empresa',
+      referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
+      tipo: 'Sitio web',
+      descarga: 'https://www.mipymes.gov.co/normatividad',
+    },
+    {
+      tema: 'Tipos de sociedades',
+      referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
+      tipo: 'Sitio web',
+      descarga:
+        'https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades',
+    },
+    {
+      tema: 'Empresa',
+      referencia: '(promonegocios.net and Definición de Empresa,(s,f,) #)',
+      tipo: 'Sitio web',
+      descarga:
+        'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis',
+      significado:
+        'examen detallado de una cosa para conocer sus características o cualidades, o su estado, y extraer conclusiones y que se realiza separando o considerando por separado, las partes que lo constituyen.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Competitividad',
+      significado: 'capacidad para competir.',
+    },
+    {
+      termino: 'Efectividad',
+      significado:
+        'la efectividad significa trabajar sobre las cosas “correctas”; es decir, las cosas que aportan valor al negocio y que realmente pueden favorecer a la concreción de los objetivos.',
+    },
+    {
+      termino: 'Estado del arte',
+      significado:
+        'tipo de investigación documental acerca de la forma en que diferentes autores han tratado un tema específico. En otras palabras, es la búsqueda, lectura y análisis de la bibliografía encontrada, en relación con un tema que se quiere investigar.',
+    },
+    {
+      termino: 'Estrategia',
+      significado:
+        'es la manera de describir en detalle el cómo o cómo se van hacer las cosas.',
+    },
+    {
+      termino: 'Ingeniería social',
+      significado:
+        'en el ámbito de la seguridad de la información; la definición de ingeniería social se refiere a conseguir que las personas divulguen datos privados en línea, como datos de acceso o información financiera.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'herramienta creada por el ingenio humano para mejorar nuestra calidad de vida como especie. Innovación es la introducción de algo nuevo que satisface alguna necesidad y está estrechamente conectada a la ciencia y a la tecnología, siendo la ciencia el conocimiento y la tecnología su práctica.',
+    },
+    {
+      termino: 'Trámite',
+      significado:
+        'Se define como cualquier solicitud o entrega de información que las personas físicas o morales del sector privado realizan ante una dependencia u organismo descentralizado, ya sea para cumplir una obligación u obtener un beneficio o servicio.',
+    },
+    {
+      termino: 'Organización',
+      significado:
+        'Es una estructura ordenada donde coexisten e interactúan personas con diversos roles, responsabilidades o cargos que buscan alcanzar un objetivo particular.',
+    },
+    {
+      termino: 'Transacción',
+      significado:
+        'Es un acuerdo comercial que se lleva a cabo entre dos partes, económicamente hablando es un convenio de compra y venta. Sin duda, una transacción también implica un intercambio de bienes y servicios a cambio del pago de una cantidad monetaria, denominada precio.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Razeto, L. (s.f.). ¿Qué es la economía solidaria? El portal de la economía solidaria.',
+      link:
+        'https://www.economiasolidaria.org/recursos/reas-red-de-redes-de-economia-alternativa-y-solidaria-biblioteca-que-es-la-economia-solidaria-por/ ',
+    },
+    {
+      referencia: 'Romero, R. (s.f.). Marketing. Editora Palmir E.I.R.L.',
       link: '',
+    },
+    {
+      referencia:
+        'Thompson, I. (s.f.). Definición de Empresa. PromonegocioS.net. ',
+      link:
+        'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html#notas',
     },
   ],
   creditos: {
