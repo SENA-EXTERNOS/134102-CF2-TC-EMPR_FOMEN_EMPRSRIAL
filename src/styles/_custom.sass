@@ -1,15 +1,33 @@
 .banner-principal-decorativo
-  &-1
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    bottom: 20%
+    right: 4%
+    z-index: 2
   &-2
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 12%
+    left: 2%
+    z-index: 2
+  &-1
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 11%
+    left: 10%
+    z-index: 2
+  &-4
+    animation: spinner 60s infinite linear
+    position: absolute
+    top: 5%
+    right: 5%
+    z-index: 1
 
+.banner-principal__img
+    img
+      z-index: 2
+      position: relative
 
 @keyframes float1
   0%
@@ -17,3 +35,84 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes spinner
+  0% 
+      transform: rotate(0deg)
+  100% 
+      transform: rotate(1turn)
+
+@keyframes float1
+  0%
+    transform: translateY(20px)
+
+  100%
+    transform: translateY(0px)
+
+
+.color_cajon_azul
+    background: #E8EBF9
+    &::before
+      background: #6677D6
+
+.color_cajon_rojo
+    background: #F7E2DF
+    &::before
+      background: #C6412A
+   
+.tarjeta--morado
+  background-color: #E5E0EF
+  .slyder-a__btn--sigt,.slyder-a__btn--atrs
+    background-color: $color-secundario 
+
+.clr-paleYellow
+  background-color: #E7EAF8
+.clr-rojo
+  background-color: #C6412A
+
+.cac
+  color: $color-acento-contenido !important
+
+    // Tarjeta icono suspendido ----------------
+.t-2-nivel1-tarjeta
+  height: 4em
+.t-2-nivel2-tarjeta
+  height: 11em
+  border-radius: 20px
+.t-2-nivel3-tarjeta
+  margin-top: -3em
+
+.t-3-nivel1-tarjeta
+  height: 4em
+.t-3-nivel2-tarjeta
+  height: 22em
+  border-radius: 20px
+.t-3-nivel3-tarjeta
+  margin-top: -3em
+.tarjeta-color-st5
+  background-color: #F1F5AE
+.tarjeta--green
+  background-color: #FFFBC2  
+
+.color-acento-botones_black
+  background: #000000e6
+  h5,p
+   color: #fff !important
+
+.bloque-texto-f__autor-right
+  text-align: right
+  color: white
+
+.color_check_t3
+  color: $color-acento-contenido
+
+.slyder-a__bullets__item--active
+  background-color: $color-acento-contenido
+  border-color: $color-acento-contenido
+
+.banner-principal__componente,.banner-principal__descripcion
+  h1 
+    color: $color-acento-botones
+
+.color-institucional
+  border-color: $color-institucional
