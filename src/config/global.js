@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Requisitos y trámites de constitución de una empresa',
     descripcionCurso:
-      '¿Cuáles son los beneficios de crear empresa? Los tiempos han evolucionado, la sociedad ha cambiado y la economía se mueve de forma diferente a como lo hacía antes; nadie es ajeno a esta transformación, porque son temas que se observan a diario en los medios de comunicación. En el presente componente formativo estudiaremos qué es una empresa, su clasificación, normativas, requisitos y trámites para su constitución',
+      '¿Cuáles son los beneficios de crear empresa? Los tiempos han evolucionado, la sociedad ha cambiado y la economía se mueve de forma diferente a como lo hacía antes; nadie es ajeno a esta transformación, porque son temas que se observan a diario en los medios de comunicación. En el presente componente formativo estudiaremos qué es una empresa, su clasificación, normativas, requisitos y trámites para su constitución.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -119,20 +119,20 @@ export default {
       tema: 'Clasificación de empresa',
       referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
       tipo: 'Sitio web',
-      descarga: 'https://www.mipymes.gov.co/normatividad',
+      link: 'https://www.mipymes.gov.co/normatividad',
     },
     {
       tema: 'Tipos de sociedades',
       referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
       tipo: 'Sitio web',
-      descarga:
+      link:
         'https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades',
     },
     {
       tema: 'Empresa',
       referencia: '(promonegocios.net and Definición de Empresa,(s,f,) #)',
       tipo: 'Sitio web',
-      descarga:
+      link:
         'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html',
     },
   ],
@@ -190,17 +190,18 @@ export default {
   referencias: [
     {
       referencia:
-        'Razeto, L. (s.f.). ¿Qué es la economía solidaria? El portal de la economía solidaria.',
+        'Razeto, L. (s.f.). <em>¿Qué es la economía solidaria?</em> El portal de la economía solidaria.',
       link:
         'https://www.economiasolidaria.org/recursos/reas-red-de-redes-de-economia-alternativa-y-solidaria-biblioteca-que-es-la-economia-solidaria-por/ ',
     },
     {
-      referencia: 'Romero, R. (s.f.). Marketing. Editora Palmir E.I.R.L.',
+      referencia:
+        'Romero, R. (s.f.). <em>Marketing</em>. Editora Palmir E.I.R.L.',
       link: '',
     },
     {
       referencia:
-        'Thompson, I. (s.f.). Definición de Empresa. PromonegocioS.net. ',
+        'Thompson, I. (s.f.). <em>Definición de Empresa</em>. PromonegocioS.net. ',
       link:
         'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html#notas',
     },
