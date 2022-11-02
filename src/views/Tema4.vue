@@ -113,7 +113,6 @@
                 alt='Texto que describa la imagen'
               ) 
 
-    p.mb-5 El sector real de la economía solidaria está conformado por las siguientes organizaciones:
 
     .row.d-flex.justify-content-center.mb-5 
       .col-11.mb-5
@@ -126,7 +125,7 @@
               li 
                 i.fas.fa-check.color_check_t3
                 | &nbsp;
-                | Mínimo 20 asociados.
+                | Mínimo 20 asociados.el se
               br 
               li 
                 i.fas.fa-check.color_check_t3
@@ -147,6 +146,10 @@
                 i.fas.fa-check.color_check_t3
                 | &nbsp;
                 | Certificado de acreditación sobre educación solidaria, expedido por la Unidad Administrativa-Especial de Organizaciones Solidarias.
+
+    h3.mb-5
+      i.fas.fa-square.cac.me-3
+      | Normativa                 
 
     p.mb-4 Las entidades de economía solidaria en Colombia, están regidas por una serie de normativas.
 

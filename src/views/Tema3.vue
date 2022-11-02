@@ -146,7 +146,7 @@
         .cajon.color_cajon_rojo.p-4
           p.mb-0 El funcionamiento de este tipo de sociedades requiere autorización previa de la Superintendencia de Sociedades y, para adquirir ese permiso, los interesados deberán radicar una solicitud en el área de correspondencia de la Entidad, en las Intendencias Regionales o de manera virtual.
 
-    p.mb-5 En conformidad con lo establecido por el Artículo 29 de La ley 2195 de 2022, se consideran prohibiciones las siguientes:
+    p.mb-5 Para tal fin, las sociedades deben acreditar el cumplimiento de los requisitos que se enuncian a continuación:
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-8.col-12

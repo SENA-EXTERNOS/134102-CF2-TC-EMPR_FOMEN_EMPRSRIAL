@@ -15,8 +15,7 @@
             :style='{ "background-image": `url(${require("@/assets/template/introduccion/t0-i1.png")})` }'
           )
           .bloque-texto-g__texto.p-4
-            strong.mb-0.color_texto_acento Apreciado aprendiz,&nbsp;
-            | sea bienvenido a este momento de aprendizaje orientado al conocimiento en donde toda empresa nace de una idea; una imagen enfocada en un emprendimiento o en una innovación de un producto o la prestación de un servicio, que permita satisfacer las necesidades de las personas, el futuro cliente.
+            p.mb-0 Apreciado aprendiz, sea bienvenido a este momento de aprendizaje orientado al conocimiento en donde toda empresa nace de una idea; una imagen enfocada en un emprendimiento o en una innovación de un producto o la prestación de un servicio, que permita satisfacer las necesidades de las personas, el futuro cliente.
 
       .col-10
         .cajon.color_cajon_azul.p-4

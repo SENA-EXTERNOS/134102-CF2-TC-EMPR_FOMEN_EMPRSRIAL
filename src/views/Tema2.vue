@@ -16,7 +16,7 @@
         .cajon.color_cajon_azul.p-4
           p.mb-0 Por otro lado, se encuentra la Ley 2069 de 2020, conocida como Ley de Emprendimiento. Esta es una ley integral diseñada a la medida de todos los emprendedores, sin importar el tamaño de sus negocios.
 
-    p Los documentos tienen características tanto externas como internas. A continuación, se conocerán cada una de ellas:
+    p A continuación, podrá conocer otras bases jurídicas de gran importancia para todo emprendedor.
 
     .row.d-flex.justify-content-center.mb-5
       .col-11 
