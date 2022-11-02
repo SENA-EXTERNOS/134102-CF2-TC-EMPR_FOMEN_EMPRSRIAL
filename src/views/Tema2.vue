@@ -19,8 +19,8 @@
     p A continuación, podrá conocer otras bases jurídicas de gran importancia para todo emprendedor.
 
     .row.d-flex.justify-content-center.mb-5
-      .col-11 
-      LineaTiempoB.color-primario.mb-5(:datos='datosLineaTiempoB')
+      .col-lg-10.col-12.bg-azul
+        LineaTiempoB.color-primario.mb-5(:datos='datosLineaTiempoB')
 
     p.mb-5 Asimismo, se puede hablar de otras normas importantes:
 
