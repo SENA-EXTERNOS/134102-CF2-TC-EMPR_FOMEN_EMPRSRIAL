@@ -125,7 +125,7 @@
               li 
                 i.fas.fa-check.color_check_t3
                 | &nbsp;
-                | Mínimo 20 asociados.el se
+                | Mínimo 20 asociados.
               br 
               li 
                 i.fas.fa-check.color_check_t3
