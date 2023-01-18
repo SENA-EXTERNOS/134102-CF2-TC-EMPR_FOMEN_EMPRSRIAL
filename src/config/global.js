@@ -109,31 +109,27 @@ export default {
   },
   complementario: [
     {
-      tema: 'Normatividad colombiana: Jurídica, tributaria y laboral',
+      tema: 'Normatividad colombiana: jurídica, tributaria y laboral',
       referencia:
-        'Ministerio de Comercio, Industria y Turismo. (s.f.). Normatividad. Mipymes.',
+        'Ministerio de comercio, Industria y Turismo. (s.f.). <em>Normatividad</em>.',
       tipo: 'Sitio web',
       link: 'https://www.mipymes.gov.co/normatividad',
-    },
-    {
-      tema: 'Clasificación de empresa',
-      referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
-      tipo: 'Sitio web',
-      link: 'https://www.mipymes.gov.co/normatividad',
-    },
-    {
-      tema: 'Tipos de sociedades',
-      referencia: '(Encolombia.com and Clasificación Empresa,(s,f,) #)',
-      tipo: 'Sitio web',
-      link:
-        'https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades',
     },
     {
       tema: 'Empresa',
-      referencia: '(promonegocios.net and Definición de Empresa,(s,f,) #)',
+      referencia:
+        'Thompson, I. (s.f.). <em>Definición de Empresa</em>. PromonegocioS.net.',
       tipo: 'Sitio web',
       link:
         'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html',
+    },
+    {
+      tema: 'Sociedad',
+      referencia:
+        'Scotiabank Colpatria. (s.f.). <em>Los tipos de sociedades que deben conocer</em>.',
+      tipo: 'Sitio web',
+      link:
+        'https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades',
     },
   ],
   glosario: [
@@ -192,7 +188,7 @@ export default {
       referencia:
         'Razeto, L. (s.f.). <em>¿Qué es la economía solidaria?</em> El portal de la economía solidaria.',
       link:
-        'https://www.economiasolidaria.org/recursos/reas-red-de-redes-de-economia-alternativa-y-solidaria-biblioteca-que-es-la-economia-solidaria-por/ ',
+        'https://www.economiasolidaria.org/recursos/reas-red-de-redes-de-economia-alternativa-y-solidaria-biblioteca-que-es-la-economia-solidaria-por/',
     },
     {
       referencia:
@@ -201,7 +197,7 @@ export default {
     },
     {
       referencia:
-        'Thompson, I. (s.f.). <em>Definición de Empresa</em>. PromonegocioS.net. ',
+        'Thompson, I. (s.f.). <em>Definición de Empresa</em>. PromonegocioS.net.',
       link:
         'https://www.promonegocios.net/mercadotecnia/empresa-definicion-concepto.html#notas',
     },

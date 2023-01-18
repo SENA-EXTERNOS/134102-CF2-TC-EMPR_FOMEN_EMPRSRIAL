@@ -79,7 +79,7 @@ export default {
       {
         titulo: 'Ley 1780 del 2 de mayo de 2016',
         texto:
-          '"Por medio de la cual se promueve el empleo y el emprendimiento juvenil, se generan medidas para superar barreras de acceso al mercado de trabajo y se dictan otras disposiciones',
+          '"Por medio de la cual se promueve el empleo y el emprendimiento juvenil, se generan medidas para superar barreras de acceso al mercado de trabajo y se dictan otras disposiciones.',
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {
