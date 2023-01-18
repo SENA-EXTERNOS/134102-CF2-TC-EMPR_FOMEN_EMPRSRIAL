@@ -118,7 +118,7 @@
       .col-11.mb-5
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style='{ "background-image": `url(${require("@/assets/template/tema04/t4-i11.jpg")})` }'
+            :style='{ "background-image": `url(${require("@/assets/template/tema04/t4-i11.svg")})` }'
           )
           .bloque-texto-g__texto.p-4
             ul
@@ -266,6 +266,7 @@
       .col-11
         .cajon.color_cajon_azul.p-4
           p.mb-0 Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal donde encontrará la síntesis, material complementario, entre otros. Adicional, lo invitamos a resolver la actividad didáctica para reforzar los conceptos estudiados.
+          
 </template>
 
 <script>

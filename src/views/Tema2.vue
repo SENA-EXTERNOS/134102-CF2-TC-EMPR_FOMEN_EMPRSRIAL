@@ -73,7 +73,7 @@ export default {
       {
         titulo: 'Ley 1793 del 7 de julio de 2016',
         texto:
-          '"Por medio de la cual se dictan normas en materia de costos de los servicios financieros y se dictan otras disposiciones".',
+          '“Por medio de la cual se promueve el empleo y el emprendimiento juvenil, se generan medidas para superar barreras de acceso al mercado de trabajo y se dictan otras disposiciones”.',
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {

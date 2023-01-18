@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Requisitos y trámites de constitución de una empresa',
     descripcionCurso:
-      '¿Cuáles son los beneficios de crear empresa? Los tiempos han evolucionado, la sociedad ha cambiado y la economía se mueve de forma diferente a como lo hacía antes; nadie es ajeno a esta transformación, porque son temas que se observan a diario en los medios de comunicación. En el presente componente formativo estudiaremos qué es una empresa, su clasificación, normativas, requisitos y trámites para su constitución.',
+      '¿Cuáles son los beneficios de crear empresa? Los tiempos han evolucionado, la sociedad ha cambiado y la economía se mueve de forma diferente a como lo hacía antes; nadie es ajeno a esta transformación, porque son temas que se observan a diario en los medios de comunicación. En el presente componente formativo se estudiará, qué es una empresa, su clasificación, normativas, requisitos y trámites para su constitución.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [

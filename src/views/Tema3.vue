@@ -35,35 +35,35 @@
         .tarjeta.color-acento-botones_black.p-3(
           x='18.4%',
           y='40.4%',
-          numero='+'
+          numero='1'
         )
           h5 1 Sociedad Limitada
           p Teniendo en cuenta las compañías y sus responsabilidades, en la sociedad limitada los socios responderán hasta el monto del capital aportado. En los estatutos podrá estipularse para todos o algunos de los socios, una mayor responsabilidad, prestaciones accesorias o garantías suplementarias, expresándose su naturaleza, cuantía, duración y modalidades.
 
-        .tarjeta.color-acento-botones_black.p-3(x='24%', y='25.3%', numero='+')
+        .tarjeta.color-acento-botones_black.p-3(x='24%', y='25.3%', numero='2')
           h5 2 Sociedad Anónima
           p Esta sociedad está formada por aportación de un fondo social integrado por accionistas, responsables hasta el monto de sus respectivos aportes. Esta será administrada por gestores temporales y revocables y tiene una denominación seguida de las palabras Sociedad Anónima o de las letras S.A.
 
         .tarjeta.color-acento-botones_black.p-3(
           x='38.8%',
           y='13.1%',
-          numero='+'
+          numero='3'
         )
           h5 3 Empresa Unipersonal
           p En este caso, el empresario o propietario, tiene la capacidad legal para ejercer el comercio, respondiendo de forma ilimitada, con todo su patrimonio, ante las personas que pudieran verse afectadas por el accionar de la empresa.
 
-        .tarjeta.color-acento-botones_black.p-3(x='54.5%', y='11%', numero='+')
+        .tarjeta.color-acento-botones_black.p-3(x='54.5%', y='11%', numero='4')
           h5 4 Sociedad Colectiva
           p Es una modalidad de sociedad mercantil en la que varios socios se juntan bajo un nombre colectivo y de forma solidaria, para el desenvolvimiento de una actividad económica.
 
-        .tarjeta.color-acento-botones_black.p-3(x='75%', y='22.6%', numero='+')
+        .tarjeta.color-acento-botones_black.p-3(x='75%', y='22.6%', numero='5')
           h5 5 Empresa Asociativa de Trabajo
           p Esta asociación tiene como objetivo la producción, comercialización y distribución de bienes básicos de consumo familiar, o la prestación de servicios individuales o conjuntos de sus miembros. Sus asociados aportan su capacidad laboral por tiempo indefinido y algunos, además, aportan alguna destreza tecnológica o el conocimiento necesario para el cumplimiento de los objetivos de la empresa.
 
         .tarjeta.color-acento-botones_black.p-3(
           x='83.2%',
           y='40.3%',
-          numero='+'
+          numero='6'
         )
           h5 6 Sociedad por Acciones Simplificada S.A.S.
           p Fue creada en la legislación colombiana por la Ley 1258 de 2008. Para efectos tributarios, se rige por las reglas aplicables a las sociedades anónimas. La podrán constituir una o varias personas naturales o jurídicas, quienes serán responsables únicamente hasta por el monto de sus respectivos aportes.
@@ -80,10 +80,10 @@
     .row.m-b5
       .row.d-flex.justify-content-center
         SlyderF(columnas='col-lg-6 col-xl-4')(data-aos='zoom-in')
-          .tarjeta.p-4
+          .tarjeta.p-4.bgr-tema3
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.bgr-tema3
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -92,10 +92,10 @@
                     )
                   p.text-center Tienen personería jurídica.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.bgr-tema3
             .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.t-2-nivel1-tarjeta.bgr-tema3
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.bgr-tema3
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -104,10 +104,10 @@
                     )
                   p.text-center Deben designar un representante legal.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.bgr-tema3
             .row.justify-content-center.mb-3
-              .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.t-2-nivel1-tarjeta.bgr-tema3
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.bgr-tema3
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -116,10 +116,10 @@
                     )
                   p.text-center Ante una deuda que no se puede pagar, la empresa responderá solo con su capital social.
 
-          .tarjeta.p-4
+          .tarjeta.p-4.bgr-tema3
             .row.justify-content-center.mb-3
               .col-lg-12.t-2-nivel1-tarjeta
-              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta
+              .col-lg-12.tarjeta--green.t-2-nivel2-tarjeta.bgr-tema3
                 .row.justify-content-center.t-2-nivel3-tarjeta
                   .col-lg-6.col-4.mb-3
                     img(
@@ -128,7 +128,7 @@
                     )
                   p.text-center Deben tener una razón social única.
 
-    h3.mb-5
+    h3.mb-5.mt-5
       i.fas.fa-square.cac.me-3
       | Trámites de legalización
 

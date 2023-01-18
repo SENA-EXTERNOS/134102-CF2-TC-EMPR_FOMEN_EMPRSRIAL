@@ -35,22 +35,11 @@
                 src='@/assets/template/tema01/t1-i2.png',
                 alt='Texto que describa la imagen'
               )
-    h3.mb-5
-      i.fas.fa-square.cac.me-3
-      | Clasificación
 
     .row.d-flex.justify-content-center.mb-5
       .col-11
         .cajon.color_cajon_rojo.p-4
-          p.mb-0 Sin embargo, se debe entender que existen diferentes tipos de empresas. Por ejemplo, según la actividad existen tres (3) grandes y principales categorías:&nbsp;
-            strong la actividad económica, el propósito lucrativo y su conformación legal.
-            | De acuerdo con la actividad económica, las empresas se dividen en&nbsp;
-            strong empresas de servicios, comerciales,&nbsp;
-            | e&nbsp;
-            strong industriales.&nbsp;
-            | Tener muy presente algunos factores importantes que son: su tamaño, su alcance geográfico y el origen de su capital.          
-
-    p.mb-5 A continuación, se muestra la clasificación de los sectores económicos.
+          p.mb-0 Sin embargo, se debe entender que existen diferentes tipos de empresas. Por ejemplo, según la actividad existen tres (3) grandes y principales categorías: #[b la actividad económica, el propósito lucrativo y su conformación legal]. De acuerdo con la actividad económica, las empresas se dividen en #[b empresas de servicios, comerciales, e industriales]. Tener muy presente algunos factores importantes que son: su tamaño, su alcance geográfico y el origen de su capital. 
 
     .row.d-flex.justify-content-center.mb-5
       .col-lg-8.col-12
@@ -64,8 +53,8 @@
     .row.d-flex.justify-content-center.mb-5
       .col-11
         .cajon.color_cajon_azul.p-4
-          p.mb-0 La actividad económica del país se divide por sectores económicos. Cada uno de ellos hace parte de una actividad económica cuyos elementos o productos tienen características en común y se diferencian de otras agrupaciones. Su división se realiza de acuerdo con los procesos de producción, es decir, de acuerdo con el servicio que realicen, o con el producto que comercialicen.
-
+          p.mb-0 La actividad económica del país se divide por sectores económicos. Cada uno de ellos hace parte de una actividad económica cuyos elementos o productos tienen características en común y se diferencian de otras agrupaciones. Su división se realiza de acuerdo con los procesos de producción, es decir, según el servicio que realicen, o del producto que comercialicen.
+          
     .row
       .col-lg-12.order-2.order-lg-1
         TabsA.color-acento-contenido.mb-5 
