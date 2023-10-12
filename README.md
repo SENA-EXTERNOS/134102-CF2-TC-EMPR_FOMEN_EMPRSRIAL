@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/134102-CF2-TC-EMPR_FOMEN_EMPRSRIAL/](https://ecored-sena.github.io/134102-CF2-TC-EMPR_FOMEN_EMPRSRIAL/)
 
 #
 
