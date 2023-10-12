@@ -17,8 +17,7 @@
             i.fas.fa-quote-left
             i.fas.fa-quote-right
           p.text-regular.bloque-texto-f__texto La economía solidaria o economía de solidaridad, se refiere a una búsqueda teórica y práctica de formas alternativas para hacer economía, basadas en la solidaridad y el trabajo. El principio o fundamento de la economía de solidaridad es que la introducción de niveles crecientes y cualitativamente superiores de solidaridad en las actividades, organizaciones e instituciones económicas, tanto a nivel de las empresas como en los mercados y en las políticas públicas, incrementa la eficiencia micro y macroeconómica, a la par con generar un conjunto de beneficios sociales y culturales que favorecen a toda la sociedad.
-          .bloque-texto-f__autor-right.mb-3
-            h3.mb-0 (Razeto, s.f.)
+          p (Razeto, s.f.)
 
     p.mb-5 El sector real de la economía solidaria está conformado por las siguientes organizaciones:
 

@@ -205,7 +205,7 @@
 
           .row
             .col-md-9.my-5.mb-md-0
-              p Endeudamiento de los otorgantes y de los potenciales constituyentes, con el sector financiero.
+              p Endeudamiento de los otorgantes, y de los potenciales constituyentes, con el sector financiero.
 
             .col-md-3
               figure(data-aos='zoom-in')

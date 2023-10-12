@@ -65,7 +65,7 @@ export default {
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {
-        titulo: 'Ley 1819 de 29 de diciembre 2016',
+        titulo: 'Ley 1819 del 29 de diciembre de 2016',
         texto:
           '"Por medio de la cual se adopta una Reforma Tributaria estructural, se fortalecen los mecanismos para la lucha contra la evasión y la elusión fiscal, y se dictan otras disposiciones".',
         icono: require('@/assets/componentes/ej-05.svg'),
@@ -73,7 +73,7 @@ export default {
       {
         titulo: 'Ley 1793 del 7 de julio de 2016',
         texto:
-          '“Por medio de la cual se promueve el empleo y el emprendimiento juvenil, se generan medidas para superar barreras de acceso al mercado de trabajo y se dictan otras disposiciones”.',
+          '"Por medio de la cual se dictan normas en materia de costos de los servicios financieros y se dictan otras disposiciones".',
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {
@@ -83,7 +83,7 @@ export default {
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {
-        titulo: 'Ley 1753 del 9 d junio de 2015',
+        titulo: 'Ley 1753 del 9 de junio de 2015',
         texto:
           'Por la cual se expide el Plan Nacional de Desarrollo 2014-2018 “Todos por un nuevo país”.',
         icono: require('@/assets/componentes/ej-05.svg'),
@@ -101,7 +101,7 @@ export default {
         icono: require('@/assets/componentes/ej-05.svg'),
       },
       {
-        titulo: 'Ley 1429 de 29 de diciembre de 2010',
+        titulo: 'Ley 1429 del 29 de diciembre de 2010',
         texto:
           '"Por la cual se expide la ley de formalización y generación de empleo".',
         icono: require('@/assets/componentes/ej-05.svg'),

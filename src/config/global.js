@@ -126,7 +126,7 @@ export default {
     {
       tema: 'Sociedad',
       referencia:
-        'Scotiabank Colpatria. (s.f.). <em>Los tipos de sociedades que deben conocer</em>.',
+        'Scotiabank Colpatria. (s.f.). <em>Los tipos de sociedades que debe conocer</em>.',
       tipo: 'Sitio web',
       link:
         'https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades',
@@ -136,7 +136,7 @@ export default {
     {
       termino: 'Análisis',
       significado:
-        'examen detallado de una cosa para conocer sus características o cualidades, o su estado, y extraer conclusiones y que se realiza separando o considerando por separado, las partes que lo constituyen.',
+        'examen detallado de una cosa para conocer sus características o cualidades, o su estado, y extraer conclusiones, este se realiza separando o considerando por separado, las partes que lo constituyen.',
     },
     {
       termino: 'Competitividad',
@@ -155,7 +155,7 @@ export default {
     {
       termino: 'Estrategia',
       significado:
-        'es la manera de describir en detalle el cómo o cómo se van hacer las cosas.',
+        'es la manera de describir en detalle el cómo se van a hacer las cosas.',
     },
     {
       termino: 'Ingeniería social',
